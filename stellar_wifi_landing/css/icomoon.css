@@ -1191,6 +1191,9 @@
 .icon-apple:before {
     content: "\f179";
 }
+.icon-android:before {
+    content: "\e145";
+}
 .icon-windows:before {
     content: "\f17a";
 }
